@@ -1,5 +1,13 @@
 # LRU-Cache-
 
+## How to implement LRU cache using HashMap and Doubly Linked List
+
+LRU cache stand for Least Recently Used Cache. which evict least recently used entry. As Cache purpose is to provide fast and efficient way of retrieving data. it need to meet certain requirem
+
+<img src="https://user-images.githubusercontent.com/70285394/196023181-ca00ad91-f01f-44a0-bcf5-a3b7906199c3.png" style="background-color:red" />
+
+
+
 
       data class Entry(
           var value: Int,
